@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="./art/stepik_logotype_green.png" alt="Bot logo" width="600" height="200.5">
+<img src="./art/stepik_logotype_green.png" alt="logo" width="600" height="200.5">
 
 # Программирование на Python
 
@@ -27,4 +27,6 @@
     pip install -r requirements.txt
     ```
 
-4. Цель этого репозитория, помочь начинающему программисту
+4. Цель этого репозитория, помочь начинающему программисту получить знания, ну и как награду сертификат
+
+<img src="./art/stepik_Python.png" alt="sertificate" width="550" height="400">
