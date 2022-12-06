@@ -29,4 +29,4 @@
 
 4. Цель этого репозитория, помочь начинающему программисту получить знания, ну и как награду сертификат
 
-<img src="./art/stepik_Python.png" alt="sertificate" width="550" height="400">
+<img src="./art/stepik_Python.png" alt="sertificate" >
